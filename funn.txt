@@ -1,0 +1,2 @@
+this is a pain in my arssgit add .
+git commit -m 
